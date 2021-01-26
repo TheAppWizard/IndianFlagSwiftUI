@@ -2,4 +2,4 @@
 Republic Day Special 🇮🇳🇮🇳🇮🇳
 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/TheAppWizard/IndianFlagSwiftUI/blob/main/flag.png)
